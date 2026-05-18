@@ -1,7 +1,7 @@
 # 👋 Hola, soy Asier Haro
-Soy estudiante de Ingenieria Informatica en la UPC, actualmente cursando 3ero de carrera
-Me apasiona desarrollar sistemas backend e infraestructuras escalables
-Actualmente profundizo en plataformas Cloud e Infraestructura como Código (IaC)
+Soy estudiante de Ingenieria Informatica en la UPC, actualmente cursando 3ero de carrera                                                                                                            
+Me apasiona desarrollar sistemas backend e infraestructuras escalables                                                                                                                              
+Actualmente profundizo en plataformas Cloud e Infraestructura como Código (IaC)                                                                                                                                                                                                                    
 
 ------------------------------------------------------------------
 ## Proyectos destacados
@@ -37,5 +37,5 @@ Actualmente profundizo en plataformas Cloud e Infraestructura como Código (IaC)
 ![My Skills|183](https://skillicons.dev/icons?i=git,nginx,linux)
 
 ## ⚒️ Herramientas que estoy aprendiendo
-[![My Skills|243](https://skillicons.dev/icons?i=aws,terraform,grafana,prometheus)
+![My Skills|243](https://skillicons.dev/icons?i=aws,terraform,grafana,prometheus)
 
