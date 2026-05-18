@@ -20,6 +20,7 @@ Actualmente profundizo en plataformas Cloud e Infraestructura como Código (IaC)
 - Reescribir parte del código para optimizar el uso del caching.  
 - Completar la implementación de la infraestructura como código (IaC).  
 - Corregir el pipeline local de testing y crear un pipeline de producción hacia AWS.
+- Realizar un front para interactuar
 
 ------------------------------------------
 ## ⚒️ Herramientas que manejo con comodidad
