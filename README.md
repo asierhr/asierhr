@@ -10,8 +10,6 @@ Actualmente profundizo en plataformas Cloud e Infraestructura como Código (IaC)
 **Tecnologías:** Docker, Kubernetes, Github Actions, Grafana, Prometheus  
 **Descripción**: Infraestructura desarrollada para un proyecto con la empresa Cal Blay, con monitorización en tiempo real mediante Grafana y Prometheus, y despliegue automatizado usando Docker, Kubernetes y GitHub Actions.
 
-**📝 Por hacer / Próximos pasos:**  
-- Acabar de crear los graficos de Grafana
 #### 📊 [SistemaDeReserva](https://github.com/asierhr/SistemaReserva) 
 **Tecnologías:** Spring Boot, AWS, Terraform, Github Actions, Redis, Kafka, Docker 
 **Descripción:** Sistema de reservas completo que integra backend con Spring Boot, mensajería y caching para alta disponibilidad, desplegado en la nube con infraestructura como código usando Terraform y contenedores Docker. 
